@@ -64,4 +64,4 @@ var highscores=[ scoreone={
    }
  }
  
- console.log ("Thank you for spending your time !!")
+ console.log ("Thank you for spending your time !!!")
