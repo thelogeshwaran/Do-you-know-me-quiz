@@ -16,7 +16,7 @@ It's CLI(Command Line Interface) app which contains questions about myself(Loges
 
 ********
 
-## More about quiz 
+## More about quiz :
  * It  will take username as input .
  * It will ask questions related to myself(Logesh) to check , how well they know me. and it does not have options.
  * It you answer is correct you will awarded with one mark for each question and no negative marks for wrong answers.
@@ -24,10 +24,13 @@ It's CLI(Command Line Interface) app which contains questions about myself(Loges
  * If you beat the highscore , you will be asked to send a screenshot and will be updated on the leaderboard .
 
 *****
-## Prerequisites.
+## Prerequisites:
 1.  [Node.js](https://nodejs.org/en/)
 2.  [Readline-Sync](https://www.npmjs.com/package/readline-sync)
 3. [Chalk](https://www.npmjs.com/package/chalk)
+
+## Project link :
+ Do you know me: https://repl.it/@LOGESHWARAN4/Tanay-live-quiz?embed=1&output=1
 
 ### Thank you !
 
