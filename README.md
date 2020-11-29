@@ -1,4 +1,4 @@
-# DO YOU KNOW ME QUIZ
+# HOW WELL DO YOU KNOW ME QUIZ
 
 # Getting started
 
@@ -16,7 +16,6 @@ Here is a picture about quizz..
 
 1. [Readline-Sync](https://www.npmjs.com/package/readline-sync)
 
-2. [Chalk](https://www.npmjs.com/package/chalk)
 
 ********
 
@@ -31,12 +30,12 @@ Here is a picture about quizz..
 ## Prerequisites:
 1.  [Node.js](https://nodejs.org/en/)
 2.  [Readline-Sync](https://www.npmjs.com/package/readline-sync)
-3. [Chalk](https://www.npmjs.com/package/chalk)
+
 
 ## Project link :
  Do you know me: https://repl.it/@LOGESHWARAN4/Tanay-live-quiz?embed=1&output=1
 
-### Thank you !
+## Thank you !
 
 
 
