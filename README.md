@@ -6,7 +6,7 @@ It's CLI(Command Line Interface) app which contains questions about myself(Loges
 
 Here is a picture about quizz..
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot.jpeg)
 
 ****
 ## Built with :
