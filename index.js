@@ -18,7 +18,7 @@ function play(ques,ans) {
 }
 var highscores=[ scoreone={
    name : "Mohammad",
-   score : 8
+   score : 7
  },
  scoretwo ={
    name: "Rajesh",
