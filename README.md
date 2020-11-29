@@ -5,7 +5,7 @@
 It's CLI(Command Line Interface) app which contains questions about myself(Logesh) using node js.
 
 Here is a picture about quizz..
-<img src="/images/screenshot.jpeg" width="350" title="hover text">
+<img src="/images/screenshot.jpeg" width="600">
 
 ****
 ## Built with :
