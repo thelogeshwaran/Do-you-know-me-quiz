@@ -4,6 +4,9 @@
 
 It's CLI(Command Line Interface) app which contains questions about myself(Logesh) using node js.
 
+Here is a picture about quizz..
+![Screenshot](screenshot.png)
+
 ****
 ## Built with :
 1. [Node.js](https://nodejs.org/en/)
